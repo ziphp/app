@@ -1,16 +1,13 @@
 {
-    "name": "yiisoft/yii2-app-basic",
-    "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
-    "homepage": "https://www.yiiframework.com/",
+    "name": "ziphp/app",
+    "description": "Ziphp Project Template",
+    "keywords": ["ziphp", "project template"],
+    "homepage": "https://github.com/ziphp/app",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "https://www.yiiframework.com/forum/",
-        "wiki": "https://www.yiiframework.com/wiki/",
-        "irc": "ircs://irc.libera.chat:6697/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "issues": "https://github.com/ziphp/app/issues?state=open",
+        "source": "https://github.com/ziphp/app"
     },
     "minimum-stability": "dev",
     "require": {
