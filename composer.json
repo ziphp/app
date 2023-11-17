@@ -20,7 +20,7 @@
         "ziphp/debug": "~5.0.0",
         "ziphp/gii": "~5.0.0",
         "ziphp/faker": "~5.0.0",
-        "codeception/codeception": "^5.0.0 || ^4.0",
+        "codeception/codeception": "^5.0.12",
         "codeception/lib-innerbrowser": "^4.0 || ^3.0 || ^1.1",
         "codeception/module-asserts": "^3.0 || ^1.1",
         "codeception/module-yii2": "^1.1",
