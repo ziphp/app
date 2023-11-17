@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.4.0",
-        "ziphp/ziphp": "~5.0.0",
+        "ziphp/ziphp": "~5.0.2",
         "ziphp/bootstrap5": "~5.0.0",
         "ziphp/symfonymailer": "~5.0.0"
     },
